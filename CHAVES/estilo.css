@@ -1,0 +1,56 @@
+body{
+	font-family: Tahoma;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 30px;
+	margin-bottom: 30px;	
+}
+h1{
+	font-size: 50px;
+	color: white;
+	background-color: green;
+	font-weight: bold;
+}
+p{
+	font-size: 20px;
+	text-align: justify;
+}
+h2{
+	font-size: 35px;
+	color: white;
+	background-color: green;
+	font-style: italic;
+}
+div{
+	text-align: center;
+}
+.cabecalho{
+	text-decoration: underline;
+	font-style: italic;
+	text-align: right;
+	font-size: 15px;
+}
+.madruga{
+	color: blue;
+}
+.chiquinha{
+	color: green;
+}
+.kiko{
+	color: red;
+}
+.bordaMadruga{
+	border-style: solid;
+	border-color: blue;
+	border-width: 10px;
+}
+.bordaKiko{
+	border-style: solid;
+	border-color: red;
+	border-width: 10px;
+}
+.bordaChiquinha{
+	border-style: solid;
+	border-color: green;
+	border-width: 10px;
+}
